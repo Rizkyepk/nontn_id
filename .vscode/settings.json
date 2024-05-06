@@ -1,0 +1,6 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "editor.insertSpaces": false,
+    "editor.linkedEditing": true,
+    "git.untrackedChanges": "hidden"
+}

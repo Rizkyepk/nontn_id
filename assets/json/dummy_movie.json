@@ -1,0 +1,226 @@
+{
+  "movies": [
+    {
+        "title": "Fast X",
+        "year": 2023,
+        "cast": [
+          "Vin Diesel",
+          "Michelle Rodriguez",
+          "Tyrese Gibson",
+          "Chris \"Ludacris\" Bridges",
+          "Jason Momoa",
+          "Nathalie Emmanuel",
+          "Jordana Brewster",
+          "John Cena",
+          "Jason Statham",
+          "Sung Kang",
+          "Alan Ritchson",
+          "Daniela Melchior",
+          "Scott Eastwood",
+          "Helen Mirren",
+          "Charlize Theron",
+          "Brie Larson",
+          "Rita Moreno"
+        ],
+        "genres": [
+          "Action"
+        ],
+        "href": "Fast_X",
+        "extract": "Fast X is an upcoming American action film directed by Louis Leterrier from a screenplay by Justin Lin, Zach Dean, and Dan Mazeau. It is the sequel to F9 (2021), serving as the tenth and penultimate main installment, and the eleventh full-length film in the Fast & Furious franchise. The film stars an ensemble cast including Vin Diesel, Michelle Rodriguez, Tyrese Gibson, Chris \"Ludacris\" Bridges, Jason Momoa, Nathalie Emmanuel, Jordana Brewster, John Cena, Jason Statham, Sung Kang, Alan Ritchson, Daniela Melchior, Scott Eastwood, Helen Mirren, Charlize Theron, Brie Larson, and Rita Moreno.",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/f2/Fast_X_poster.jpg",
+        "thumbnail_width": 220,
+        "thumbnail_height": 348
+    },
+    {
+      "title": "Black Adam",
+      "year": 2022,
+      "cast": [
+        "Dwayne Johnson",
+        "Aldis Hodge",
+        "Noah Centineo",
+        "Sarah Shahi",
+        "Marwan Kenzari",
+        "Quintessa Swindell",
+        "Mohammed Amer",
+        "Bodhi Sabongui",
+        "Pierce Brosnan"
+      ],
+      "genres": [
+        "Superhero"
+      ],
+      "href": "Black_Adam_(film)",
+      "extract": "Black Adam is a 2022 American superhero film based on the DC character of the same name. Produced by New Line Cinema, DC Films, Seven Bucks Productions, and FlynnPictureCo. and distributed by Warner Bros. Pictures, it is a spin-off to Shazam! (2019) and the 11th film in the DC Extended Universe (DCEU). The film was directed by Jaume Collet-Serra from a screenplay by Adam Sztykiel, Rory Haines, and Sohrab Noshirvani. It stars Dwayne Johnson as Teth-Adam / Black Adam, an ancient superhuman who is released from his magic imprisonment by a group of archeologists to free the nation of Kahndaq from the crime syndicate Intergang, whose local leader plans to obtain an ancient relic called the Crown of Sabbac to take control of the nation. Aldis Hodge, Noah Centineo, Sarah Shahi, Marwan Kenzari, Quintessa Swindell, and Pierce Brosnan appear in supporting roles.",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/a/a9/Black_Adam_%28film%29_poster.jpg",
+      "thumbnail_width": 250,
+      "thumbnail_height": 371
+    },
+    {
+        "title": "Mission: Impossible",
+        "year": 2023,
+        "cast": [
+          "Tom Cruise",
+          "Simon Pegg",
+          "Ving Rhames",
+          "Rebecca Ferguson",
+          "Vanessa Kirby",
+          "Esai Morales",
+          "Hayley Atwell",
+          "Pom Klementieff",
+          "Shea Whigham",
+          "Henry Czerny",
+          "Cary Elwes"
+        ],
+        "genres": [
+          "Action",
+          "Spy"
+        ],
+        "href": "Mission:_Impossible_%E2%80%93_Dead_Reckoning_Part_One",
+        "extract": "Mission: Impossible – Dead Reckoning Part One is an upcoming American action spy film written, produced, and directed by Christopher McQuarrie. It is the sequel to Mission: Impossible – Fallout (2018) and is the seventh installment in the Mission: Impossible film series. The film stars Tom Cruise, Ving Rhames, Simon Pegg, Rebecca Ferguson, Vanessa Kirby, Hayley Atwell, Shea Whigham, Pom Klementieff, Esai Morales, Rob Delaney, Henry Czerny, and Cary Elwes.",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/e/ed/Mission-_Impossible_%E2%80%93_Dead_Reckoning_Part_One_poster.jpg",
+        "thumbnail_width": 261,
+        "thumbnail_height": 384
+    },
+    {
+      "title": "The Sea Beast",
+      "year": 2022,
+      "cast": [
+        "Karl Urban",
+        "Zaris-Angel Hator",
+        "Jared Harris",
+        "Marianne Jean-Baptiste",
+        "Jim Carter",
+        "Doon Mackichan",
+        "Dan Stevens",
+        "Kathy Burke"
+      ],
+      "genres": [
+        "Adventure",
+        "Animated"
+      ],
+      "href": "The_Sea_Beast_(2022_film)",
+      "extract": "The Sea Beast is a 2022 computer-animated adventure film directed by Chris Williams, who co-wrote the screenplay with Nell Benjamin and produced with Jed Schlanger. The film stars the voices of Karl Urban, Zaris-Angel Hator, Jared Harris, and Marianne Jean-Baptiste. It tells the story of a sea monster hunter and a young orphan girl who joins his group of sea monster hunters on their search for the elusive Red Bluster in the 17th century.",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/09/The_Sea_Beast_film_poster.png",
+      "thumbnail_width": 259,
+      "thumbnail_height": 384
+    },
+    {
+      "title": "DC League of Super-Pets",
+      "year": 2022,
+      "cast": [
+        "Dwayne Johnson",
+        "Kevin Hart",
+        "Kate McKinnon",
+        "John Krasinski",
+        "Vanessa Bayer",
+        "Natasha Lyonne",
+        "Diego Luna",
+        "Marc Maron",
+        "Keanu Reeves"
+      ],
+      "genres": [
+        "Animated",
+        "Comedy",
+        "Superhero"
+      ],
+      "href": "DC_League_of_Super-Pets",
+      "extract": "DC League of Super-Pets is a 2022 American 3D computer-animated superhero comedy film based on the DC Comics superhero team Legion of Super-Pets. Produced by Warner Animation Group, DC Entertainment, and Seven Bucks Productions and distributed by Warner Bros. Pictures, it was directed by Jared Stern and co-directed by Sam J. Levine from a screenplay by Stern and John Whittington. The film stars Dwayne Johnson as the voice of Krypto, alongside a supporting ensemble voice cast that includes Kevin Hart, Kate McKinnon, John Krasinski, Vanessa Bayer, Natasha Lyonne, Diego Luna, Marc Maron, Thomas Middleditch, Ben Schwartz, and Keanu Reeves. The film tells the story of Superman's pet dog Krypto and shelter dog Ace who work with other animals to save the captured superheroes from Lex Luthor and Lulu.",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/09/DC_League_of_Super-Pets.jpg",
+      "thumbnail_width": 256,
+      "thumbnail_height": 384
+    },
+    {
+      "title": "The Munsters",
+      "year": 2022,
+      "cast": [
+        "Jeff Daniel Phillips",
+        "Sheri Moon Zombie",
+        "Daniel Roebuck",
+        "Richard Brake",
+        "Sylvester McCoy"
+      ],
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "href": "The_Munsters_(2022_film)",
+      "extract": "The Munsters is a 2022 American horror comedy film produced, written, and directed by Rob Zombie and starring Sheri Moon Zombie, Jeff Daniel Phillips, Daniel Roebuck, Richard Brake, Jorge Garcia, Sylvester McCoy, Catherine Schell, and Cassandra Peterson. Based on the 1960s family sitcom of the same title, the story takes place prior to the events of the series, serving as an origin story for the characters.",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/e/e2/The_Munsters_%282022%29_Movie.png",
+      "thumbnail_width": 266,
+      "thumbnail_height": 375
+    },
+    {
+      "title": "Minions: The Rise of Gru",
+      "year": 2022,
+      "cast": [
+        "Steve Carell",
+        "Taraji P. Henson",
+        "Michelle Yeoh",
+        "RZA",
+        "Jean-Claude Van Damme",
+        "Lucy Lawless",
+        "Dolph Lundgren",
+        "Danny Trejo",
+        "Russell Brand",
+        "Julie Andrews",
+        "Alan Arkin"
+      ],
+      "genres": [
+        "Animated",
+        "Comedy"
+      ],
+      "href": "Minions:_The_Rise_of_Gru",
+      "extract": "Minions: The Rise of Gru is a 2022 American computer-animated comedy film produced by Illumination and distributed by Universal Pictures. It is the sequel to the spin-off prequel Minions (2015) and the fifth entry overall in the Despicable Me franchise. The film was directed by Kyle Balda, co-directed by Brad Ableson and Jonathan del Val, and produced by Chris Meledandri, Janet Healy and Chris Renaud, from a screenplay written by Matthew Fogel, and a story by Fogel and Brian Lynch. The film features Steve Carell reprising his role as Gru and Pierre Coffin as the Minions, with Taraji P. Henson, Michelle Yeoh, Russell Brand, Julie Andrews, and Alan Arkin in supporting roles. In the film, an eleven-year-old Gru plans to become a supervillain with the help of his Minions, which leads to a showdown with a malevolent team, the Vicious 6.",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/45/Minions_The_Rise_of_Gru_poster.jpg",
+      "thumbnail_width": 251,
+      "thumbnail_height": 398
+    },
+    {
+      "title": "Avatar: The Way of Water",
+      "year": 2022,
+      "cast": [
+        "Sam Worthington",
+        "Zoe Saldaña",
+        "Sigourney Weaver",
+        "Stephen Lang",
+        "Kate Winslet"
+      ],
+      "genres": [
+        "Science Fiction"
+      ],
+      "href": "Avatar:_The_Way_of_Water",
+      "extract": "Avatar: The Way of Water is a 2022 American epic science fiction film directed and produced by James Cameron. He co-wrote the screenplay with Rick Jaffa and Amanda Silver from a story the trio wrote with Josh Friedman and Shane Salerno. Distributed by 20th Century Studios, it is the sequel to Avatar (2009) and the second installment in the Avatar film series. Cast members Sam Worthington, Zoe Saldaña, Stephen Lang, Joel David Moore, CCH Pounder, Giovanni Ribisi, Dileep Rao, and Matt Gerald reprise their roles from the original film, with Sigourney Weaver returning in an additional role while Kate Winslet joined the cast. It follows a blue-skinned humanoid Na'vi named Jake Sully (Worthington) as he and his family, under renewed human threat, seek refuge with the aquatic Metkayina clan of Pandora, a habitable exomoon on which they live.",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/54/Avatar_The_Way_of_Water_poster.jpg",
+      "thumbnail_width": 250,
+      "thumbnail_height": 390
+    },
+    {
+        "title": "Spider-Man: Across the Spider-Verse",
+        "year": 2023,
+        "cast": [
+          "Shameik Moore",
+          "Hailee Steinfeld",
+          "Jake Johnson",
+          "Issa Rae",
+          "Daniel Kaluuya",
+          "Karan Soni",
+          "Jason Schwartzman",
+          "Brian Tyree Henry",
+          "Luna Lauren Vélez",
+          "Greta Lee",
+          "Rachel Dratch",
+          "Jorma Taccone",
+          "Shea Whigham",
+          "Oscar Isaac"
+        ],
+        "genres": [
+          "Animated",
+          "Superhero"
+        ],
+        "href": "Spider-Man:_Across_the_Spider-Verse",
+        "extract": "Spider-Man: Across the Spider-Verse is an upcoming American computer-animated superhero film featuring the Marvel Comics character Miles Morales / Spider-Man. It is produced by Columbia Pictures and Sony Pictures Animation in association with Marvel Entertainment, and distributed by Sony Pictures Releasing. It is the sequel to Spider-Man: Into the Spider-Verse (2018) and is set in a shared multiverse of alternate universes called the \"Spider-Verse\". The film is directed by Joaquim Dos Santos, Kemp Powers, and Justin K. Thompson, from a screenplay written by Phil Lord, Christopher Miller, and David Callaham. Shameik Moore voices Miles, starring alongside Hailee Steinfeld, Jake Johnson, Issa Rae, Daniel Kaluuya, Karan Soni, Jason Schwartzman, Brian Tyree Henry, Luna Lauren Vélez, Greta Lee, Rachel Dratch, Jorma Taccone, Shea Whigham and Oscar Isaac. In the film, Miles goes on an adventure with Gwen Stacy / Spider-Woman across the multiverse where he meets a new team of Spider-People, known as the Spider-Society, but comes into conflict with them over handling a new threat.",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/b/b4/Spider-Man-_Across_the_Spider-Verse_poster.jpg",
+        "thumbnail_width": 263,
+        "thumbnail_height": 379
+    }
+  ]
+}
